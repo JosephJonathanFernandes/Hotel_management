@@ -1,0 +1,109 @@
+# C/C++ Build Artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Debugging
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# Build directories
+build/
+dist/
+bin/
+obj/
+out/
+
+# IDE files
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+.idea/
+*.iml
+*.code-workspace
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Project specific
+*.txt
+!CMakeLists.txt
+!roomtype.txt
+temp.txt
+customer_*.txt
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Archives
+*.zip
+*.tar.gz
+*.tar
+*.rar
+*.7z
+
+# Coverage
+*.gcda
+*.gcno
+*.gcov
+coverage/
+
+# Valgrind
+*.log
+vgcore.*
+
+# Tags
+TAGS
+tags
+.tags
+.tags1

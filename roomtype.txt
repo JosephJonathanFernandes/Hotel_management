@@ -1,0 +1,4 @@
+Deluxe:10
+Standard:15
+Family:8
+Suite:5
